@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "A simple example",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "build": "webpack"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/enricodeleo/corsotree-webpack.git"
