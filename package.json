@@ -1,0 +1,19 @@
+{
+  "name": "corsotree-webpack",
+  "version": "1.0.0",
+  "description": "A simple example",
+  "main": "index.js",
+  "scripts": {
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/enricodeleo/corsotree-webpack.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/enricodeleo/corsotree-webpack/issues"
+  },
+  "homepage": "https://github.com/enricodeleo/corsotree-webpack#readme"
+}
