@@ -4,6 +4,7 @@
   "description": "A simple example",
   "main": "index.js",
   "scripts": {
+    "start": "webpack serve",
     "build": "webpack"
   },
   "repository": {
