@@ -1,5 +1,6 @@
 # 3d parties dependencies
 node_modules
+dist
 
 # Mac garbage
 .DS_Store
